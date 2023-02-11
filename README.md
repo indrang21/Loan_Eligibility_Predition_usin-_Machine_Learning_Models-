@@ -57,3 +57,19 @@ sklearn
 scipy
 matplotlib
 numpy
+#### Findings:
+* Around 65% of the applicants in the dataset are married.
+* 80% apllicants in the dataset are male.
+* Around 15% applicants in the dataset are self employed.
+* Around 85% applicants have repaid their debts.
+* Most of the applicants don't have any dependents.
+* Around 80% of the applicants are Graduate.
+* Most of the applicants are from Semiurban area.
+*  the number of male applicants is higher compared to female applicants.
+* The number of applicants that has been married is higher compared to applicants that hasn't married. 
+* The number of applicants that are not self employed is higher compared to applicants that are self employed. 
+* The number of applicants that have good credit history is higher compared to applicants that have bad credit history.
+* The number of approved loans is higher compared to rejected loans .
+* Proportion of married applicants is higher for the approved loans.
+*  the 360 days loan duration is the most popular compared to others.
+* 
